@@ -1,6 +1,5 @@
-# csc250-lab2
- #include <stdio.h>
-	#include "gfx2.h"
+    #include <stdio.h>
+    #include "gfx2.h"
     #include <math.h>
     #include "lab2-p1-letterLib.h"
     #include <string.h>
