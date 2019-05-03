@@ -1,5 +1,5 @@
-  #include <stdio.h>
-	#include "gfx2.h"
+    #include <stdio.h>
+    #include "gfx2.h"
     #include <math.h>
     #include <string.h>
 int main(){
